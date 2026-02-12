@@ -4,3 +4,6 @@ const name="Mitali";
 function getName(name){
     return name;
 }
+function getrollno(){
+    return "roll number"
+}
