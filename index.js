@@ -7,3 +7,6 @@ function getName(name){
 function getrollno(){
     return "roll number"
 }
+function sale(){
+    return 'sale';
+}
